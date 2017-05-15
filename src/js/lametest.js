@@ -1,4 +1,5 @@
-require('use-strict');
+// require('use-strict');
+// https://github.com/zhuker/lamejs/issues/40
 
 fs = require('fs');
 var common = require('./common.js');
